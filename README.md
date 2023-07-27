@@ -1,4 +1,4 @@
-Online bookstore model. Video review: https://drive.google.com/drive/folders/1Ila5886LNsTKcr5i5EYWy3Xw4jG73eUX?usp=sharing
+Online bookstore model. Video review: https://drive.google.com/file/d/1oOI_AoJsF_D4T386EmLuQ7Bv3MJhZwTk/view?usp=sharing
 
 To run, you need to create a postgresql database called "ecommerce".
 
